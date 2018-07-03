@@ -14,6 +14,10 @@ The game is that classic car driving game's category by sega that EVERYONE knows
 - Game mechanics: the interaction model and the game's aim
 - HUD: if there should be any UI for the game
 - Input: parsing the incoming voice in real time, and the head tilt, and translating it to very simple WASD
+  - https://tastenkunst.github.io/brfv4_javascript_examples/
+  - https://github.com/auduno/clmtrackr
+  - https://github.com/audiocogs/pitch.js/
+  - and another million pitch and facial feature recognition libraries
 
 # Visual style
 Outrun style looks, with fake 3d or very low-quality texed 3d rendering
